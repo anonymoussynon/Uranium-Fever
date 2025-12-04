@@ -8,20 +8,20 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Uranium Fever',
-  tagline: 'A Hardcore Wabbajack Modlist for Tale of Two Wastelands',
+  title: 'Nuclear Sunset',
+  tagline: 'A Hardcore TTW Modlist',
   favicon: 'img/UF.ico',
 
   // Set the production url of your site here
-  url: 'https://anonymoussynon.github.io/',
+  url: 'https://nuclearsunset.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: 'Uranium-Fever',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'anonymoussynon', // Usually your GitHub org/user name.
-  projectName: 'Uranium-Fever', // Usually your repo name.
+  projectName: 'Nuclear-Sunset', // Usually your repo name.
   deploymentBranch: "gh-pages",
 
   onBrokenLinks: 'throw',
@@ -132,12 +132,12 @@ links: [
             items: [
               {
                 label: 'Discord',
-                href: 'https://discord.com/invite/Uu6gZZSaeA',
+                href: 'https://discord.gg/pwQKKXTdwg',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Uranium Fever Team`,
+        copyright: `Copyright © ${new Date().getFullYear()} Nuclear Sunset Team`,
       },
       prism: {
         theme: prismThemes.github,
