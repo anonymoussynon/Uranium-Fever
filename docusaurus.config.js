@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Nuclear Sunset',
   tagline: 'A Hardcore TTW Modlist',
-  favicon: 'img/UF.ico',
+  favicon: 'img/NS.ico',
 
   // Set the production url of your site here
   url: 'https://nuclearsunset.com',
@@ -72,12 +72,12 @@ const config = {
         },
       },
       // Replace with your project's social card
-      image: 'img/link.jpg',
+      image: 'img/NSlink.png',
       navbar: {
         title: '             ',
         logo: {
-          alt: 'UF Logo',
-          src: 'img/uf nogit.png',
+          alt: 'NS Logo',
+          src: 'img/NS2.png',
         },
         items: [
           {
