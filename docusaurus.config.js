@@ -45,12 +45,12 @@ const config = {
           routeBasePath: "docs",
           sidebarPath: require.resolve("./sidebars.js"),
           editUrl:
-            "https://github.com/anonymoussynon/Uranium-Fever/edit/main/",
+            "https://github.com/anonymoussynon/Nuclear-Sunset/edit/main/",
         },
         blog: {
           showReadingTime: false,
           editUrl:
-            "https://github.com/anonymoussynon/Uranium-Fever/tree/main/",
+            "https://github.com/anonymoussynon/Nuclear-Sunset/tree/main/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
