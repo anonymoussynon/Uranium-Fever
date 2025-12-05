@@ -10,10 +10,9 @@
   overflow: hidden;
   background: #282a36 url(@site/static/img/nuclearsunsetbanner.png) center center/cover no-repeat;
   color: #f8f8f2;
-  flex-grow: 1;
 }
 
-@media screen and (max-width: 996px) {
+@media screen {
   .heroBanner {
     padding: 2rem;
   }
