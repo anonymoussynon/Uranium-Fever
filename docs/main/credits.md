@@ -5,7 +5,7 @@ hide_title: true
 sidebar_label: Credits & Thanks
 ---
 
-# ![Credits & Thanks](https://github.com/user-attachments/assets/860a6f93-1ecd-4300-bcdc-516349fdd9cb)
+# ![Credits & Thanks](<https://github.com/user-attachments/assets/f13aa22d-6293-42fd-bb82-501b1e4dc105)
 
 **Nuclear Sunset** is authored and supported by [DarkSolarLegend](https://next.nexusmods.com/profile/darksolarlegend), [OrgasmicSneeze](https://next.nexusmods.com/profile/OrgasmicSneeze), [DoktorAkcel](https://next.nexusmods.com/profile/DoktorAkcel), [Lime](https://next.nexusmods.com/profile/LimeMods), and [FinalCatalyst](https://next.nexusmods.com/profile/FinalCatalyst), but it would not be possible without the numerous contributions from:
 
