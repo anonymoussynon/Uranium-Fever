@@ -13,5 +13,5 @@ sidebar_label: Minimum Specs
 - **Storage:** SSD required; NVMe SSD recommended, with at least 165GB of free space available.
 
 :::note
-- Profiles of varying qualities are discussed in the [Setup Instructions](https://nuclearsunset.net/docs/main/setup#-selecting-a-nuclear-sunset-profile-) for users with weaker systems.
+- Profiles of varying qualities are discussed in the [Setup Instructions](https://uraniumfever.net/docs/main/setup#-selecting-a-uranium-fever-profile-) for users with weaker systems.
 ::: 

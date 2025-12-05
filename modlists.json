@@ -25,11 +25,11 @@
     // TODO: All this will need changed to Nuclear Sunset
     "links": {
       "image": "https://raw.githubusercontent.com/Nickchapman3773/Uranium-Fever/main/static/img/mainpage.webp",
-      "readme": "https://nuclearsunset.net/",
+      "readme": "https://uraniumfever.net/",
       "download": "https://authored-files.wabbajack.org/Nuclear Sunset.wabbajack_70b03793-9fdd-4964-9436-4f99dcc5d9c1",
       "machineURL": "UraniumFever",
       "discordURL": "https://discord.gg/vUNsFx7AGu",
-      "websiteURL": "https://nuclearsunset.net/"
+      "websiteURL": "https://uraniumfever.net/"
     },
     "download_metadata": {
       "Hash": "vkO+HVCQgUM=",
