@@ -5,7 +5,7 @@ hide_title: true
 sidebar_label: Setup Instructions
 ---
 
-# ![Banner Setup Instructions](https://github.com/user-attachments/assets/71196e6c-b2cb-4ade-addf-7f2191cf2bb9)
+# ![Banner Setup Instructions](https://github.com/user-attachments/assets/c33fd668-6295-4c27-be33-a3c99cc33993)
 
 :::danger Important
 Follow these instructions carefully and in the exact order specified. Skipping steps may lead to installation issues.
