@@ -4,6 +4,8 @@
  */
 .heroBanner {
   display: flex;
+  align-items: center;
+  justify-content: center;
   background: url("/static/img/nuclearsunsetbanner.png");
   height: 100vmin;
 }
