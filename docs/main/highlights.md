@@ -41,7 +41,7 @@ sidebar_label: Mod Highlights
 - [Purchase Items on Display](https://www.nexusmods.com/newvegas/mods/78873) - Lets players buy items directly from shelves.
 - [B42 True Learning](https://www.nexusmods.com/newvegas/mods/81872) - Introduces contextual leaning while aiming.
 
-# <p align="left"> ![Comprehensive Overhauls](https://github.com/user-attachments/assets/17cfec21-66fd-493a-bf1d-d85e574939b0) </p>
+# ![Comprehensive Overhauls](https://github.com/user-attachments/assets/17cfec21-66fd-493a-bf1d-d85e574939b0) </p>
 
 - [Functional Post Game Ending](https://www.nexusmods.com/newvegas/mods/66726) - Expands the post-game world based on player choices.
 - [Goodies](https://www.nexusmods.com/newvegas/mods/91028) - Restores a large selection of cut content.
