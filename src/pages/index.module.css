@@ -4,11 +4,7 @@
  */
 .heroBanner {
   background: url("/static/img/nuclearsunsetbanner.png");
-  height: 1100px;
-  background-position: center;
-  background-repeat: no-repeat;
-  object-fit: cover;
-  position: relative;
+  height: 100vmin;
 }
 
 @media screen and (max-width: 996px) {
