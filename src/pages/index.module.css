@@ -4,8 +4,7 @@
  */
 .heroBanner {
   background: url("/static/img/nuclearsunsetbanner.png");
-  !important
-  height: auto;
+  height: auto !important;
   background-position: center;
   background-repeat: no-repeat;
   object-fit: cover;
