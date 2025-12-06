@@ -8,16 +8,6 @@
   background: #282a36 url(@site/static/img/nuclearsunsetbanner.png) center center no-repeat;
 }
 
-@media screen {
-  .heroBanner {
-    padding: 2rem;
-    background-size: center;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    flex-grow: 1;
-  }
 }
 
 .buttons {
