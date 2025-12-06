@@ -3,8 +3,9 @@
  * and scoped locally.
  */
 .heroBanner {
+  display: flex;
   background: url("/static/img/nuclearsunsetbanner.png");
-  height: 1100px;
+  height: auto;
   background-position: center;
   background-repeat: no-repeat;
   object-fit: cover;
