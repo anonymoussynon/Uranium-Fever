@@ -8,7 +8,6 @@ sidebar_label: Mod Highlights
 # ![Banner Mod Highlights](https://github.com/user-attachments/assets/caf31ed8-931a-4026-89ef-ddc30501eed7)
 
 # ![Balance](https://github.com/user-attachments/assets/6047bc7c-7a35-45f5-8de3-cfdbd961deb7)
-<br></br>
 
 - [Sweets Simple Settings](https://www.nexusmods.com/newvegas/mods/75846) - Adjusts gameplay elements like damage, health, AP, carry weight, limb penalties, dismemberment, skill tags, and vendor respawn for a challenging experience.
 - [Harder Barter Faster Stronger (Sicko Mode)](https://www.nexusmods.com/newvegas/mods/80360) - Makes the barter skill central to a more punishing economy.
@@ -36,7 +35,6 @@ sidebar_label: Mod Highlights
 <br></br>
 
 # ![Functions](https://github.com/user-attachments/assets/dad5f059-943a-4575-ad91-6de8a559b2d1)
-<br></br>
 
 - [Bad Touch](https://www.nexusmods.com/newvegas/mods/83782) - Adds environmental hazard consequences like fire and toxic sludge.
 - [BURN (Hardcore Fire Effects)](https://www.nexusmods.com/newvegas/mods/76060) - Makes NPCs panic when set ablaze.
@@ -50,7 +48,6 @@ sidebar_label: Mod Highlights
 <br></br>
 
 # ![Comprehensive Overhauls](https://github.com/user-attachments/assets/17cfec21-66fd-493a-bf1d-d85e574939b0)
-<br></br>
 
 - [Functional Post Game Ending](https://www.nexusmods.com/newvegas/mods/66726) - Expands the post-game world based on player choices.
 - [Goodies](https://www.nexusmods.com/newvegas/mods/91028) - Restores a large selection of cut content.
@@ -80,6 +77,9 @@ sidebar_label: Mod Highlights
 - [Havasu Blues](https://www.nexusmods.com/newvegas/mods/76680) - Features a survival experience around Lake Havasu City.
 - [Zion Trails](https://www.nexusmods.com/newvegas/mods/61939) - Adds a new world space connecting the Mojave to Zion.
 
+<br></br>
+<br></br>
+
 # ![Interactions](https://github.com/user-attachments/assets/8fbd633e-d62d-471d-b230-7a19ec66d716)
 
 - [Brave New World](https://www.nexusmods.com/newvegas/mods/69562) - Revoices over 7,000 NPC lines across the Mojave.
@@ -89,17 +89,26 @@ sidebar_label: Mod Highlights
 - [Companion Characteristics](https://www.nexusmods.com/newvegas/mods/77474) - Adds personality-based debuffs for companions.
 - [Mojave Wildlife](https://www.nexusmods.com/newvegas/mods/64638) - Overhauls creature spawn points across the Mojave.
 
+<br></br>
+<br></br>
+
 # ![Sound](https://github.com/user-attachments/assets/8f449f76-3693-41d5-aec9-3447d091944d)
 
 - [ATMOS Ambience Overhaul Fallout 3](https://www.nexusmods.com/newvegas/mods/84054) & [ATMOS Ambience Overhaul New Vegas](https://www.nexusmods.com/newvegas/mods/85939) - Modernizes ambient sounds across both Wastelands.
 - [A Music Addition Project - Revised](https://www.nexusmods.com/newvegas/mods/84554) - Expands music with lore-friendly tracks.
 - [Capital Ruins](https://www.nexusmods.com/newvegas/mods/76591) - Adds darker, horror-inspired music to the Capital Wasteland.
 
+<br></br>
+<br></br>
+
 # ![User Interface](https://github.com/user-attachments/assets/9cf6e15f-72bc-43e5-ab6b-a0011706683a)
 
 - [Quick Select](https://www.nexusmods.com/newvegas/mods/82249) - Adds new quick-access weapon, aid, and throwable selection menus.
 - [Item Cards](https://www.nexusmods.com/newvegas/mods/85868) - Adds real-time stat displays for inspected items.
 - [Radiation Visuals](https://www.nexusmods.com/newvegas/mods/84917) - Introduces effects like ionizing particles and static when exposed to radiation.
+
+<br></br>
+<br></br>
 
 # ![Animations](https://github.com/user-attachments/assets/34c95c37-e740-47fe-807d-f9be92bcfec7)
 
@@ -108,6 +117,9 @@ sidebar_label: Mod Highlights
 - [Enhanced Movement](https://www.nexusmods.com/newvegas/mods/85459) - Overhauls movement with new animations and sprinting options.
 - [Modern Stagger Animations](https://www.nexusmods.com/newvegas/mods/80456) - Adds motion-captured stagger animations.
 - [Simple Attack Reactions](https://www.nexusmods.com/newvegas/mods/79687) - Adds response animations for NPCs when injured.
+
+<br></br>
+<br></br>
 
 # ![Visuals](https://github.com/user-attachments/assets/21305b5b-c9a5-4342-bfea-b69aed1c2b82)
 
