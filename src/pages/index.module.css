@@ -7,9 +7,6 @@
   background-size: center;
   background: #282a36 url(@site/static/img/nuclearsunsetbanner.png) center center no-repeat;
 }
-
-}
-
 .buttons {
   display: flex;
   align-items: center;
