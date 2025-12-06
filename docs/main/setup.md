@@ -10,11 +10,11 @@ sidebar_label: Setup Instructions
 :::danger Important
 Follow these instructions carefully and in the exact order specified. Skipping steps may lead to installation issues.
 
-<br></br>
-<br></br>
-
 Before requesting support, check the [Frequently Asked Questions](https://nuclearsunset.com/docs/main/faq) for troubleshooting common errors.
 :::
+
+<br></br>
+<br></br>
 
 ### <p align="center"> ![Creating Necessary File Paths](https://github.com/user-attachments/assets/34a47045-6a1d-4c9d-bb94-8187f3694834) </p>
 - Navigate to the `Root Directory` (e.g., `C:\`, `D:\`).
@@ -411,6 +411,9 @@ The Ultra-Low Power State (ULPS) setting is enabled by default on AMD GPUs and h
 
 - Restart your compute for the changes to take effect.
 
+<br></br>
+<br></br>
+
 ### <p align="center"> ![Selecting a Nuclear Sunset Profile](https://github.com/user-attachments/assets/9dc22271-8ba5-4025-8171-1ab0260cd69f) </p>
 
 - In MO2, select `Nuclear Sunset` from the dropdown menu, then choose a profile.
@@ -526,6 +529,9 @@ Expand - Optional Mod Descriptions
     
     ![NoPlay](https://github.com/user-attachments/assets/dd3d35e5-6461-444e-a8aa-dfbe8b87413d)
 :::
+
+<br></br>
+<br></br>
 
 ### <p align="center"> ![Modders - Installing Geck](https://github.com/user-attachments/assets/e8904e66-cbe6-4563-9bd0-0bd6379a0bbc) </p>
 :::tip Authors Only
