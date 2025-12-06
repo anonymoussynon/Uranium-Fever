@@ -11,7 +11,7 @@ sidebar_label: Troubleshooting
 This page contains various Nuclear Sunset troubleshooting steps that should only be used when referenced by the [Frequently Asked Questions](https://nuclearsunset.com/docs/main/faq) or Nuclear Sunset authors.
 :::
 
-### <p align="center"> ![Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK](https://github.com/user-attachments/assets/ab671005-d13d-46ce-9afd-6c448d2f8d03) </p>
+### ![Intel iGPU Users and GPUs Without Vulkan Support - Downgrading DXVK](https://github.com/user-attachments/assets/3106c27e-5d75-47fb-a43c-5db7c97925c2)
 
 :::warning Pre-Bundled DXVK
 The latest version of DXVK comes included with Nuclear Sunset.
@@ -27,7 +27,8 @@ Intel iGPUs and older GPUs without Vulkan support are incompatible with the bund
 	- Navigate to the `C:\Modding\Nuclear Sunset\DXVK\DXVK 1.10.3` folder.
 	- Move `d3d9.dll` and `dxvk.conf`into `C:\Modding\Nuclear Sunset\[NoDelete] Stock New Vegas`, selecting `Replace` when prompted.
 
-### <p align="center"> ![Disabling Steam Overlay](https://github.com/user-attachments/assets/2699ea51-e6f8-47ed-a6e7-fa04d2fe00aa) </p>
+### ![Disabling Steam Overlay](https://github.com/user-attachments/assets/cb9d52c1-c9a8-403d-86f9-3261bddca031)
+
 :::tip Why?
 This process disables Steam Overlay, which causes crashes and worsen performance.
 :::
