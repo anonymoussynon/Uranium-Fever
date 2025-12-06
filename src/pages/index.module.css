@@ -7,6 +7,14 @@
   background-size: center;
   background: #282a36 url(@site/static/img/nuclearsunsetbanner.png) center center no-repeat;
 }
+
+/** In mobile view, reduce the padding */
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 2rem;
+}
+  
+}
 .buttons {
   display: flex;
   align-items: center;
