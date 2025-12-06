@@ -3,6 +3,7 @@
  * and scoped locally.
  */
 .heroBanner {
+  display: flex;
   background: url("/static/img/nuclearsunsetbanner.png");
   height: 100vmin;
 }
