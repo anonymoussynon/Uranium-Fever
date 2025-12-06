@@ -4,7 +4,7 @@ hide_title: true
 sidebar_label: Important Links
 ---
 
-# ![Important Links](https://github.com/user-attachments/assets/f05359e8-8e29-467e-b36f-2baf32d15f11)
+# ![Important Links](https://github.com/user-attachments/assets/d8975045-3993-4ea0-a70a-e4a8b0d10683)
 
 :::tip
 This page contains links to essential resources for modding Fallout: New Vegas.
