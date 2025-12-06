@@ -10,13 +10,6 @@ function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx("hero hero--primary", styles.heroBanner)}>
-      <div className="container">
-        <div className={styles.buttons}>
-          <Link className="button button--primary button--lg" to="/docs/main/intro">
-            Click Here to Learn About Nuclear Sunset
-          </Link>
-        </div>
-      </div>
     </header>
   );
 }
