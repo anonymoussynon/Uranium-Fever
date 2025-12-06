@@ -3,13 +3,8 @@
  * and scoped locally.
  */
 .heroBanner {
-  display: flex;
   background: url("/static/img/nuclearsunsetbanner.png");
-  height: 100vh;
-  background-position: center;
-  background-repeat: no-repeat;
-  object-fit: cover;
-  position: relative;
+  height: 75vmin;
 }
 
 @media screen and (max-width: 996px) {
