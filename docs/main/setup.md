@@ -10,6 +10,9 @@ sidebar_label: Setup Instructions
 :::danger Important
 Follow these instructions carefully and in the exact order specified. Skipping steps may lead to installation issues.
 
+<br></br>
+<br></br>
+
 Before requesting support, check the [Frequently Asked Questions](https://nuclearsunset.com/docs/main/faq) for troubleshooting common errors.
 :::
 
@@ -101,6 +104,9 @@ If stuggling to find the correct filepath, `right click` the `Fallout: New Vegas
 These clean installations and backups will be utilized in the [Creating a Clean Stock New Vegas Folder](https://nuclearsunset.com/docs/main/setup#-creating-a-clean-stock-new-vegas-folder-) section.
 :::
 
+<br></br>
+<br></br>
+
 ### <p align="center"> ![Installing Nuclear Sunset](https://github.com/user-attachments/assets/34c624af-f780-4666-987d-41a1359cf77f) </p>
 - Launch the `Wabbajack application`.
 - Open the `settings` page and log into your Nexus account.
@@ -136,6 +142,9 @@ Let the installation **FINISH COMPLETELY** prior to starting the following secti
 **DO NOT** open Mod Organizer 2 **BEFORE** being instructed to do so.
 :::
 
+<br></br>
+<br></br>
+
 ### <p align="center"> ![Creating a Clean Stock New Vegas Folder](https://github.com/user-attachments/assets/01abbcf8-4205-4629-a692-f97596b62d5b) </p>
 :::tip Self-Contained
 This is part two of a process that creates a **SELF-CONTAINED** installation that won't interfere with preexisting modded setups.
@@ -157,11 +166,17 @@ This is part two of a process that creates a **SELF-CONTAINED** installation tha
 If a clean `Stock New Vegas` folder is not appropriate created, the game will fail to launch.
 :::
 
+<br></br>
+<br></br>
+
 ### <p align="center"> ![Generating Fresh INI Files](https://github.com/user-attachments/assets/db4eb7b0-0231-4710-9e37-9a806fcaba45) </p>
 - Launch Fallout: New Vegas from `Steam/GOG`.
 - Click `OK` when prompted with `Detecting Video Hardware`.
 - Close the launcher.
 - Repeat this process for Fallout 3.
+
+<br></br>
+<br></br>
 
 ### <p align="center"> ![Launching Mod Organizer 2 (MO2)](https://github.com/user-attachments/assets/b40dea42-3d9b-4de3-9819-91e21eaf7883) </p>
 - Launch `ModOrganizer.exe` from `C:\Modding\Nuclear Sunset`.
@@ -174,6 +189,9 @@ If a clean `Stock New Vegas` folder is not appropriate created, the game will fa
 
  	![EPIC](https://github.com/user-attachments/assets/63688aa8-afdf-441d-8f0c-45761af92653)
 :::
+
+<br></br>
+<br></br>
 
 ### <p align="center"> ![Configuring Game Settings](https://github.com/user-attachments/assets/a30e31cc-4ca9-436a-8e07-b7ac84798d7b) </p>
 
@@ -207,6 +225,9 @@ If a clean `Stock New Vegas` folder is not appropriate created, the game will fa
 :::danger Configuring Game Settings Crashes
 Refer to [Frequently Asked Questions](https://nuclearsunset.com/docs/main/faq) for common troubleshooting steps before requesting support.
 :::
+
+<br></br>
+<br></br>
 
 ### <p align="center"> ![Installing Tale of Two Wastelands (TTW)](https://github.com/user-attachments/assets/aedc9b9f-a40d-448f-8f70-0a0b2c1bb9ea) </p>
 
@@ -243,6 +264,9 @@ If not, delete the `[NoDelete] [INF] [DB] - Tale of Two Wastelands (TTW)` and `[
 The TTW Installer **MUST** run on the copy of Fallout: New Vegas inside the `[NoDelete] Stock New Vegas` folder. A prior TTW installation **CANNOT** be moved into the Nuclear Sunset TTW mod folder. The TTW installation process performs BSA decompression, binary patching, and sound file extension alterations, which are critical for a functional installation.
 :::
 
+<br></br>
+<br></br>
+
 ### <p align="center"> ![Running 4GB Patcher](https://github.com/user-attachments/assets/1266e5e4-495f-438d-bcda-6bcaa2465c19) </p>
 - Navigate to `C:\Modding\Nuclear Sunset\[NoDelete] Stock New Vegas` and run `Patcher - GOG & Steam.exe` or `Patcher - Epic.exe` depending on your game version.
 - A CMD prompt popup will appear, confirming `FalloutNV.exe patched!` or `Press any key to continue...` depending on your game version. `FalloutNV_backup.exe` will also appear in the `[NoDelete] Stock New Vegas` folder.
@@ -250,6 +274,9 @@ The TTW Installer **MUST** run on the copy of Fallout: New Vegas inside the `[No
 :::danger
 Failure to run the 4GB Patch will result in a pink screen or crash when launching the game.
 :::
+
+<br></br>
+<br></br>
 
 ### <p align="center"> ![Installing on Linux](https://github.com/user-attachments/assets/7b47c7e4-90d9-4d60-a29c-3d8b8aea5af6) </p>
 <details><summary>
@@ -265,6 +292,9 @@ Linux inherently requires above average operating system knowledge and troublesh
   - Pending revision, sorry!
 </details>
 
+<br></br>
+<br></br>
+
 ### <p align="center"> ![Disabling Base Address Randomization](https://github.com/user-attachments/assets/0685f415-9655-461e-9a58-5cc843299659) </p>
 :::tip Why?
 This step can prevent unforeseen crashes.
@@ -276,6 +306,9 @@ This step can prevent unforeseen crashes.
 - Set `Force Randomization for Images (Mandatory ASLR)` to `Use Default (Off)`.
 
   ![Base Address](https://github.com/user-attachments/assets/3a1fcb3d-8bee-4aa6-a394-ece70234160a)
+
+<br></br>
+<br></br>
 
 ### <p align="center"> ![Disabling DXVK Cache Storage](https://github.com/user-attachments/assets/2cc79209-9690-4c95-9cc0-e9c83d6927df) </p>
 :::tip Why?
@@ -300,6 +333,9 @@ Disabling DXVK Cache Storage prevents memory-related crashes by halting the crea
 
 - Restart your computer for changes to take effect.
 
+<br></br>
+<br></br>
+
 ### <p align="center"> ![Installing RivaTuner Statistics Server (RTSS)](https://github.com/user-attachments/assets/f83c6525-1de0-415e-bf59-88d03053bf07) </p>
 :::tip Why?
 FPS limiters make the game smoother by reducing rapid FPS fluctuations and preventing timescale desync bugs.
@@ -319,6 +355,9 @@ FPS limiters make the game smoother by reducing rapid FPS fluctuations and preve
 :::warning
 Force close RTSS from task manager before updating the list! This is known to cause issues with launching from MO2 if RTSS is open when updating the list.
 :::
+
+<br></br>
+<br></br>
 
 ### <p align="center"> ![Nvidia Users - Applying Nvidia Profile](https://github.com/user-attachments/assets/4fbc4f77-c103-47e5-8bbd-9136172710c7) </p>
 :::tip Why?
@@ -349,6 +388,9 @@ Repeat this process after every Nvidia driver update.
 - Disable the `NVIDIA overlay` in the NVIDIA app settings, as it can reduce performance.
 
   ![NVIDIA Overlay](https://github.com/user-attachments/assets/284d36b6-6f22-4346-b93f-7e1b2edce48b)
+
+<br></br>
+<br></br>
 
 ### <p align="center"> ![AMD Users - Disabling Ultra-Low Power State (ULPS)](https://github.com/user-attachments/assets/01ecc185-8433-4510-9db4-3a3e5d516480) </p>
 :::tip Why?
@@ -395,6 +437,9 @@ When swapping profiles, the same save can be used safely. Experiment and find ou
 
 If performance remains a concern despite changing profiles, try the recommendations listed in the `FPS/Stutter - How can I increase FPS/Reduce Stutter in Nuclear Sunset?` section of the [Frequently Asked Questions](https://nuclearsunset.com/docs/main/faq).
 :::
+
+ <br></br>
+ <br></br>
  
 ### <p align="center"> ![Optional Mods](https://github.com/user-attachments/assets/ac08818b-a893-4d46-aa3f-77f40e0e3453) </p>
 
@@ -459,6 +504,9 @@ Expand - Optional Mod Descriptions
 	- **UI - 32-9 Aspect Ratio Monitor (Super Ultrawide) Support** - Enables support for super ultrawide (32:9) monitors.
 </details>
 
+<br></br>
+<br></br>
+
 ### <p align="center"> ![Launching The Game](https://github.com/user-attachments/assets/3af8373b-7ec0-433a-8279-7dbf6d1c7bbd) </p>
 
 - Launch the game via MO2. Launching from Steam, GOG, or the Nuclear Sunset Launcher will **NOT** launch the game with Nuclear Sunset enabled.
@@ -491,6 +539,9 @@ This step is only necessary for mod authors.
   
 - GOG users:
 	- Move `GECK.exe` from `C:\Modding\Nuclear Sunset` into `C:\Modding\Nuclear Sunset\[NoDelete] Stock New Vegas`, selecting `Replace` when prompted.
+
+<br></br>
+<br></br>
 
 ### <p align="center"> ![Controller Users](https://github.com/user-attachments/assets/bbeed182-b2f9-4bbf-9335-76cd665fb85b) </p>
 :::tip For Contoller Users Only
