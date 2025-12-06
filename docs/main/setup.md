@@ -26,6 +26,9 @@ Verify these file paths exist (Root Directory may vary):
 - `C:\Modding\Wabbajack`
 :::
 
+<br></br>
+<br></br>
+
 ### <p align="center"> ![Creating Antivirus Exclusions](https://github.com/user-attachments/assets/21189acf-4d6a-47d4-bd02-2d1f0af8fd75) </p>
 :::tip Why?
 Excluding these folders prevents Windows or third-party antivirus from blocking essential files.
@@ -43,6 +46,9 @@ Excluding these folders prevents Windows or third-party antivirus from blocking 
 
 - Repeat this process for any third-party antivirus software.
 
+<br></br>
+<br></br>
+
 ### <p align="center"> ![Downloading Wabbajack](https://github.com/user-attachments/assets/f7f009e8-df47-43b7-847b-7ca2d0dccaa3) </p>
 
 - Download the [Wabbajack Installation file](https://www.wabbajack.org/).
@@ -56,6 +62,9 @@ Excluding these folders prevents Windows or third-party antivirus from blocking 
 
 Wabbajack should **ONLY** be launched from the `Wabbajack Launcher.exe`.
 :::
+
+<br></br>
+<br></br>
 
 ### <p align="center"> ![Creating Clean Installs and Backups](https://github.com/user-attachments/assets/b1e3bda9-ded4-410e-b34a-fc6e5a849e8e) </p>
 
