@@ -21,6 +21,9 @@ This page contains links to essential resources for modding Fallout: New Vegas.
 - [Mods to Avoid](https://vivanewvegas.moddinglinked.com/avoid-mods.html)
   - A non-exhaustive list of mods best avoided for stability.
 
+<br></br>
+<br></br>
+
 # <p align="center"> ![Fallout Resources](https://github.com/user-attachments/assets/8eb848cb-8b44-4a82-b7fe-2525c96f22c4) </p>
 
 - [GECK Wiki](https://geckwiki.com/index.php/Main_Page)
@@ -33,6 +36,9 @@ This page contains links to essential resources for modding Fallout: New Vegas.
   - Instructions for decompressing plugins in your load order to improve performance and reduce stuttering.
 - [New Vegas Reloaded (NVR) Wiki](https://dlpnd.github.io/nvr-wiki/)
   - A detailed wiki covering every aspect of New Vegas Reloaded.
+
+<br></br>
+<br></br>
 
 # <p align="center"> ![Fallout Modlist Guides](https://github.com/user-attachments/assets/9e33fcc4-662b-47ba-bdb9-00d2cca8e489) </p>
 
