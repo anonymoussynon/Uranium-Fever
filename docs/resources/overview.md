@@ -4,7 +4,7 @@ hide_title: true
 sidebar_label: Resources Overview
 ---
 
-# ![Banner Community Resources](https://github.com/user-attachments/assets/37532e10-ab4e-4d54-894c-0665322669d5)
+# ![Banner Community Resources](https://github.com/user-attachments/assets/c9242a99-b0e3-4d54-86b2-02bc2d50fb12)
 
 This section of the website includes a variety of community resources in a centralized location for easy access.
 
